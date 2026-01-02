@@ -24,4 +24,3 @@ This repository redistributes the data as-is and does not claim ownership,
 copyright, or exclusive rights over the domain lists.
 
 Inclusion of a domain does not imply malicious intent.
-Inclusion of a domain does not imply malicious intent.
