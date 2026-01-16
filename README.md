@@ -4,6 +4,17 @@ Lists of newly registered domains (NRDs) automatically updated daily from the Wh
 
 Useful for security research, threat intelligence, OSINT, and DNS filtering.
 
+### Downloads:
+
+| List              | Download Link |
+|:------------------ |:-------------:|
+| *Last 10 days*     | [Download](https://dl.cenk.app/nrd/nrd-last-10-days.txt) |
+| *Last 20 days*     | [Download](https://dl.cenk.app/nrd/nrd-last-20-days.txt) |
+| *Last 30 days*     | [Download](https://dl.cenk.app/nrd/nrd-last-30-days.txt) |
+| *Last 45 days*     | [Download](https://dl.cenk.app/nrd/nrd-last-45-days.txt) |
+| *Last 60 days*     | [Download](https://dl.cenk.app/nrd/nrd-last-60-days.txt) |
+
+
 ### Source
 WhoisDS.com (free NRD feed)
 
