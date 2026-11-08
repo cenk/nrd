@@ -1,7 +1,7 @@
 # Newly Registered Domains (Last 20 days)
 # https://github.com/cenk/nrd
 # This file was generated from WhoisDS.com free NRD database
-# Last update: 08 Nov 2026 14:06:17 UTC
+# Last update: 08 Nov 2026 15:06:41 UTC
 # Domains: 1,329,049
 0-0.bio
 0-0.moe

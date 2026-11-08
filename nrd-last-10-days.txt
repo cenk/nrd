@@ -1,7 +1,7 @@
 # Newly Registered Domains (Last 10 days)
 # https://github.com/cenk/nrd
 # This file was generated from WhoisDS.com free NRD database
-# Last update: 08 Nov 2026 14:06:16 UTC
+# Last update: 08 Nov 2026 15:06:39 UTC
 # Domains: 699,957
 0-0.moe
 0-0v10.top
